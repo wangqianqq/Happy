@@ -8,6 +8,7 @@
 	public static void main(String[] args){
 		int[] arr={232,42,535,343,23,43,3,4};
 		int[] arr1={34,43,232,34344};
+		
 		//ArrayOperate A=new ArrayOperate();
 		System.out.println(ArrayOperate.max(arr));//同一个类里面调用函数直接写函数名就可以了。
 	}
