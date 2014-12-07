@@ -1,3 +1,4 @@
+
 class Student extends Person{
 	private String school;
 	Student(String name,String school){
